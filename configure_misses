@@ -1,0 +1,12 @@
+Configure miss: if compiler is pgcc
+Configure miss: machine/soundcard.h
+Configure miss: machine/soundcard.h presence
+Configure miss: machine/soundcard.h usability
+Configure miss: pulse/simple.h
+Configure miss: pulse/simple.h presence
+Configure miss: pulse/simple.h usability
+Configure miss: soundcard.h
+Configure miss: soundcard.h presence
+Configure miss: soundcard.h usability
+Configure miss: wherever dynamically loaded symbols need underscores
+Configure miss: whether to use sse2
